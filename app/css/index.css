@@ -1,0 +1,46 @@
+body {
+	background-color: #f5f5f5;
+	padding: 25px;
+	color: #808080;
+	text-align: center;
+}
+.col-fourth {
+	width: 23.5%;
+}
+.col-fourth {
+	position: relative;
+	display:inline-block;
+	float: left;
+	margin-right: 2%;
+	margin-bottom: 20px;
+}
+.end {
+	margin-right: 0 !important;
+
+}
+.wrapper {
+	margin: 30px auto;
+	width: 980px;
+	position: relative;
+}
+.counter {
+	background: #fff;
+	padding: 25px 0;
+	border-radius: 5px;
+
+}
+
+p> .count-text {
+	font-size: 13px;
+	margin-top: 10px;
+	font-weight: normal;
+	margin-bottom: 0;
+	text-align: center;
+
+}
+.fa-2x {
+	margin: 0 auto;
+	float: none;
+	display: table;
+	color: #4ad1e5;
+}
